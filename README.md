@@ -7,9 +7,9 @@ This is a jupyter notebook that can be used to predict the likelihood of breast 
 
 ## Important checks:
 - It is important that you check which columns contain null values or NaN values as they need to be removed. The functionality to do so is already built-in. If you are unsure of how to do so, see below code :
-`import numpy as np
-import pandas as pd
-from sklearn.datasets import load_breast_cancer
+`import numpy as np"\n"
+import pandas as pd"\n"
+from sklearn.datasets import load_breast_cancer"\n"
 
 \# Load the breast cancer dataset
 data = pd.read_csv("data.csv")
