@@ -11,7 +11,7 @@ This is a jupyter notebook that can be used to predict the likelihood of breast 
 - 2 - Using the `liketest.ipynb` notebook can you then test the likelihood of breast cancer occuring given a dataset. You will be prompted to enter a dataset to test against and an .h5 model file. You will find a copy of these in the models and dataset directories respecively. You will also be prompted to enter the column names of any columns containing NaN values separated by commas.
 
 ## Data-cleaning:
-- If you require cleaning the data, I have included a script to perform this task.See `datasets` diretcory for more.
+- If you require cleaning the data, I have included a notebook to perform this task. See `datasets` directory for more.
 ### Usage:
   - Once you run the notebook, will you be prompted to enter the filename of the dataset you would like to clean as well as the columns you would like to drop.
 
