@@ -1,5 +1,5 @@
 # Breast Cancer Prediction
-This is a jupyter notebook that can be used to predict the likelihood of breast cancer given a dataset
+This is a jupyter notebook that can be used to predict the likelihood of breast cancer given a data subject.
 
 ## Required modules:
 - Tensorflow
