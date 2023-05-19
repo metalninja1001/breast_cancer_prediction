@@ -12,7 +12,7 @@ This is a jupyter notebook that can be used to predict the likelihood of breast 
 
 ## Data-cleaning:
 - If you require cleaning the data, I have included a notebook to perform this task. See `datasets` directory for more.
-### Usage:
+#### Usage:
   - Once you run the notebook, will you be prompted to enter the filename of the dataset you would like to clean as well as the columns you would like to drop.
 
 ## Important checks:
