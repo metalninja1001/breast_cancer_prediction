@@ -16,12 +16,4 @@ This is a jupyter notebook that can be used to predict the likelihood of breast 
   - Once you run the notebook, will you be prompted to enter the filename of the dataset you would like to clean as well as the columns you would like to drop.
 
 ## Important checks:
-- It is important that you check which columns contain null values or NaN values as they need to be removed. The functionality to do so is already built-in. If you are unsure of how to do so, see below code :\
-`import numpy as np` \
-`import pandas as pd` \
-`from sklearn.datasets import load_breast_cancer` \
-\
-`# Load the breast cancer dataset` \
-`data = pd.read_csv("data.csv")` \
-`df = pd.DataFrame(data)` \
-`print(data)`
+- It is important that you check which columns contain null values or NaN values as they need to be removed. A command-line program has been included for this purpose. See `datasets` directory for more.
